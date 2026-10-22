@@ -33,7 +33,7 @@ void loop()
 	digitalWrite(rLedPin, HIGH);
     digitalWrite(gLedPin, LOW);
   	digitalWrite(bLedPin, LOW);
-    //piezo hälyttää
+    //piezo alarm
 	tone(piezoPin, 500); 
     }
 //if there's no movement; rgb green + piezo silent
