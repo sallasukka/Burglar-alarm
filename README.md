@@ -22,10 +22,6 @@ This project is for an embedded systems course.
 ## Pin connections
 ![Burglar alarm circuit](images/alarm_wiring.png)
 
-## Usage
+## Use
 
-1. Wire the components according to the picture above.
-2. Open the sketch in the Arduino IDE and upload it to your board.
-3. Slide the switch to the ON position to arm the alarm. The LED turns green.
-4. If the PIR sensor detects movement, the LED turns red and the piezo sounds.
-5. Slide the switch to OFF to disarm the alarm. The LED turns blue.
+Use at your own risk. This project has been tested only on Tinkercad. 
